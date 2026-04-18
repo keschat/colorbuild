@@ -1,0 +1,1 @@
+{\n  "require": {\n    "php": "^7.4|^8.0",\n    "slim/slim": "^4.0",\n    "slim/psr7": "^1.0",\n    "guzzlehttp/guzzle": "^7.0"\n  }\n}
